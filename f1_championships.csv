@@ -2871,75 +2871,75 @@ Pos,Driver,Nationality,Team,Points,Year
 21,Heikki Kovalainen,Finnish,Lotus-Renault,0,2013
 22,Giedo van der Garde,Dutch,Caterham-Renault,0,2013
 23,Max Chilton,British,Marussia-Cosworth,0,2013
-1,LEWIS HAMILTON,GBR,MERCEDES,384,2014
-2,NICO ROSBERG,GER,MERCEDES,317,2014
-3,DANIEL RICCIARDO,AUS,RED BULL,256,2014
-4,VALTTERI BOTTAS,FIN,WILLIAMS,184,2014
-5,SEBASTIAN VETTEL,GER,RED BULL,167,2014
-6,FERNANDO ALONSO,ESP,FERRARI,159,2014
-7,FELIPE MASSA,BRA,WILLIAMS,134,2014
-8,JENSON BUTTON,GBR,MCLAREN,123,2014
-9,NICO HULKENBERG,GER,FORCE INDIA,94,2014
-10,SERGIO PEREZ,MEX,FORCE INDIA,58,2014
-11,KIMI RÄIKKÖNEN,FIN,FERRARI,53,2014
-12,KEVIN MAGNUSSEN,DEN,MCLAREN,52,2014
-13,JEAN-ERIC VERGNE,FRA,TORO ROSSO,20,2014
-14,ROMAIN GROSJEAN,FRA,LOTUS,8,2014
-15,DANIIL KVYAT,RUS,TORO ROSSO,7,2014
-16,JULES BIANCHI,FRA,MARUSSIA,2,2014
-17,PASTOR MALDONADO,VEN,LOTUS,2,2014
-18,MARCUS ERICSSON,SWE,CATERHAM,0,2014
-19,MAX CHILTON,GBR,MARUSSIA,0,2014
-20,KAMUI KOBAYASHI,JPN,CATERHAM,0,2014
-21,ESTEBAN GUTIERREZ,MEX,SAUBER,0,2014
-22,ADRIAN SUTIL,GER,SAUBER,0,2014
-23,ANDRE LOTTERER,GER,CATERHAM,0,2014
-24,WILL STEVENS,GBR,CATERHAM,0,2014
-1,Lewis Hamilton,GBR,Mercedes,381,2015
-2,Nico Rosberg,GER,Mercedes,322,2015
-3,Sebastian Vettel,GER,Ferrari,278,2015
-4,Kimi Räikkönen,FIN,Ferrari,150,2015
-5,Valtteri Bottas,FIN,Williams,136,2015
-6,Felipe Massa,BRA,Williams,121,2015
-7,Daniil Kvyat,RUS,Red Bull Racing,95,2015
-8,Daniel Ricciardo,AUS,Red Bull Racing,92,2015
-9,Sergio Perez,MEX,Force India,78,2015
-10,Nico Hulkenberg,GER,Force India,58,2015
-11,Romain Grosjean,FRA,Lotus,51,2015
-12,Max Verstappen,NED,Toro Rosso,49,2015
-13,Pastor Maldonado,VEN,Lotus,27,2015
-14,Felipe Nasr,BRA,Sauber,27,2015
-15,Carlos Sainz,ESP,Toro Rosso,18,2015
-16,Jenson Button,GBR,McLaren,16,2015
-17,Fernando Alonso,ESP,McLaren,11,2015
-18,Marcus Ericsson,SWE,Sauber,9,2015
-19,Roberto Merhi,ESP,Marussia,0,2015
-20,Kevin Magnussen,DEN,McLaren,0,2015
-21,Alexander Rossi,USA,Marussia,0,2015
-22,Will Stevens,GBR,Marussia,0,2015
-1,Nico Rosberg ,GER,Mercedes,385,2016
-2,Lewis Hamilton ,GBR,Mercedes,380,2016
-3,Daniel Ricciardo ,AUS,Red Bull Racing TAG Heuer,256,2016
-4,Sebastian Vettel ,GER,Ferrari,212,2016
-5,Max Verstappen ,NED,Red Bull Racing TAG Heuer,191,2016
-6,Kimi Räikkönen ,FIN,Ferrari,186,2016
-7,Sergio Perez ,MEX,Force India Mercedes,101,2016
-8,Valtteri Bottas ,FIN,Williams Mercedes,85,2016
-9,Nico Hulkenberg ,GER,Force India Mercedes,72,2016
-10,Fernando Alonso ,ESP,McLaren Honda,54,2016
-11,Felipe Massa ,BRA,Williams Mercedes,53,2016
-12,Carlos Sainz ,ESP,Toro Rosso Ferrari,46,2016
-13,Romain Grosjean ,FRA,Haas Ferrari,29,2016
-14,Jenson Button ,GBR,McLaren Honda,21,2016
-15,Daniil Kvyat ,RUS,Red Bull Racing TAG Heuer,21,2016
-16,Max Verstappen ,NED,Toro Rosso Ferrari,13,2016
-17,Kevin Magnussen ,DEN,Renault,7,2016
-18,Daniil Kvyat ,RUS,Toro Rosso Ferrari,4,2016
-19,Felipe Nasr ,BRA,Sauber Ferrari,2,2016
-20,Jolyon Palmer ,BEL,Renault,1,2016
-21,Stoffel Vandoorne ,GBR,McLaren Honda,1,2016
-22,Pascal Wehrlein ,GER,MRT Mercedes,1,2016
-23,Rio Haryanto ,IND,MRT Mercedes,0,2016
-24,Esteban Gutierrez ,MEX,Haas Ferrari,0,2016
-25,Esteban Ocon ,FRA,MRT Mercedes,0,2016
-26,Marcus Ericsson ,SWE,Sauber Ferrari,0,2016
+1,LEWIS HAMILTON,British,MERCEDES,384,2014
+2,NICO ROSBERG,German,MERCEDES,317,2014
+3,DANIEL RICCIARDO,Australian,RED BULL,256,2014
+4,VALTTERI BOTTAS,Finnish,WILLIAMS,184,2014
+5,SEBASTIAN VETTEL,German,RED BULL,167,2014
+6,FERNANDO ALONSO,Spanish,FERRARI,159,2014
+7,FELIPE MASSA,Brazilian,WILLIAMS,134,2014
+8,JENSON BUTTON,British,MCLAREN,123,2014
+9,NICO HULKENBERG,German,FORCE INDIA,94,2014
+10,SERGIO PEREZ,Mexican,FORCE INDIA,58,2014
+11,KIMI RÄIKKÖNEN,Finnish,FERRARI,53,2014
+12,KEVIN MAGNUSSEN,Dennish,MCLAREN,52,2014
+13,JEAN-ERIC VERGNE,French,TORO ROSSO,20,2014
+14,ROMAIN GROSJEAN,French,LOTUS,8,2014
+15,DANIIL KVYAT,Russian,TORO ROSSO,7,2014
+16,JULES BIANCHI,French,MARUSSIA,2,2014
+17,PASTOR MALDONADO,Venezuelan,LOTUS,2,2014
+18,MARCUS ERICSSON,Swedish,CATERHAM,0,2014
+19,MAX CHILTON,British,MARUSSIA,0,2014
+20,KAMUI KOBAYASHI,Japanese,CATERHAM,0,2014
+21,ESTEBAN GUTIERREZ,Mexican,SAUBER,0,2014
+22,ADRIAN SUTIL,German,SAUBER,0,2014
+23,ANDRE LOTTERER,German,CATERHAM,0,2014
+24,WILL STEVENS,British,CATERHAM,0,2014
+1,Lewis Hamilton,British,Mercedes,381,2015
+2,Nico Rosberg,German,Mercedes,322,2015
+3,Sebastian Vettel,German,Ferrari,278,2015
+4,Kimi Räikkönen,Finnish,Ferrari,150,2015
+5,Valtteri Bottas,Finnish,Williams,136,2015
+6,Felipe Massa,Brazilian,Williams,121,2015
+7,Daniil Kvyat,Russian,Red Bull Racing,95,2015
+8,Daniel Ricciardo,Australian,Red Bull Racing,92,2015
+9,Sergio Perez,Mexican,Force India,78,2015
+10,Nico Hulkenberg,German,Force India,58,2015
+11,Romain Grosjean,French,Lotus,51,2015
+12,Max Verstappen,Belgian,Toro Rosso,49,2015
+13,Pastor Maldonado,Venezuelan,Lotus,27,2015
+14,Felipe Nasr,Brazilian,Sauber,27,2015
+15,Carlos Sainz,Spanish,Toro Rosso,18,2015
+16,Jenson Button,British,McLaren,16,2015
+17,Fernando Alonso,Spanish,McLaren,11,2015
+18,Marcus Ericsson,Swedish,Sauber,9,2015
+19,Roberto Merhi,Spanish,Marussia,0,2015
+20,Kevin Magnussen,Dennish,McLaren,0,2015
+21,Alexander Rossi,American,Marussia,0,2015
+22,Will Stevens,British,Marussia,0,2015
+1,Nico Rosberg ,German,Mercedes,385,2016
+2,Lewis Hamilton ,British,Mercedes,380,2016
+3,Daniel Ricciardo ,Australian,Red Bull Racing TAG Heuer,256,2016
+4,Sebastian Vettel ,German,Ferrari,212,2016
+5,Max Verstappen ,Belgian,Red Bull Racing TAG Heuer,191,2016
+6,Kimi Räikkönen ,Finnish,Ferrari,186,2016
+7,Sergio Perez ,Mexican,Force India Mercedes,101,2016
+8,Valtteri Bottas ,Finnish,Williams Mercedes,85,2016
+9,Nico Hulkenberg ,German,Force India Mercedes,72,2016
+10,Fernando Alonso ,Spanish,McLaren Honda,54,2016
+11,Felipe Massa ,Brazilian,Williams Mercedes,53,2016
+12,Carlos Sainz ,Spanish,Toro Rosso Ferrari,46,2016
+13,Romain Grosjean ,French,Haas Ferrari,29,2016
+14,Jenson Button ,British,McLaren Honda,21,2016
+15,Daniil Kvyat ,Russian,Red Bull Racing TAG Heuer,21,2016
+16,Max Verstappen ,Belgian,Toro Rosso Ferrari,13,2016
+17,Kevin Magnussen ,Dennish,Renault,7,2016
+18,Daniil Kvyat ,Russian,Toro Rosso Ferrari,4,2016
+19,Felipe Nasr ,Brazilian,Sauber Ferrari,2,2016
+20,Jolyon Palmer ,British,Renault,1,2016
+21,Stoffel Vandoorne ,British,McLaren Honda,1,2016
+22,Pascal Wehrlein ,German,MRT Mercedes,1,2016
+23,Rio Haryanto ,Indian,MRT Mercedes,0,2016
+24,Esteban Gutierrez ,Mexican,Haas Ferrari,0,2016
+25,Esteban Ocon ,French,MRT Mercedes,0,2016
+26,Marcus Ericsson ,Swedish,Sauber Ferrari,0,2016
